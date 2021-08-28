@@ -18,7 +18,7 @@
 ## Developers
 
 - [**Team Lead:** Vitalii Morgunov](https://github.com/vmorgunov)
-- [**Senior google researcher:** Ksenia Kovbasuk](https://github.com/Kseniia-FS)
+- [**JavaScript Developer:** Ksenia Kovbasuk](https://github.com/Kseniia-FS)
 - [**Scrum master** Yaroslav Tkach](https://github.com/lamewolf)
 - [**Front-end developer:** Aleksei Sobchenko](https://github.com/coreks)
 - [**Front-end developer:** Max Savchuk](https://github.com/Maxim-Savchuk)
